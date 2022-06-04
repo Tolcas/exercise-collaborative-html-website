@@ -1,3 +1,20 @@
 body{
     background: #BDBDBD;
+    width: 100%;
+}
+.navbar {
+    color: beige;
+    padding: 5px;
+}
+.titulo {
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+}
+h2 {
+    font-size: 60px;
+}
+.bg-image {
+    padding: 5px;
 }
